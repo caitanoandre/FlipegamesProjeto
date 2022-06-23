@@ -1,0 +1,73 @@
+.Flipjogos {
+    position: relative;
+    height: 89px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 60px;
+    padding-left: 30px;
+    
+    color: #39FF14;  
+  
+
+}
+
+.banner {
+    height: 100vh;
+    
+    /* Flexbox */
+    display: flex;
+    align-items: center;
+   }
+
+
+.Fliperama {
+  padding-left: 30px;  
+}
+
+.pacman {
+ padding-right: 50px;   
+}
+
+
+
+
+
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar-toggler {
+    color:white;
+}
+
+.games {
+ background-image: url(img/1122588.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding-top: 100px;
+ min-height: 400px;
+}
+
+.carousel-item {
+  
+}
+.cont {
+    background-color: aquamarine; 
+    min-height: 800px  
+    
+}
+
+.bg-footer {
+ background-color:blue; 
+}
+
+
+
+
+
+  
+
